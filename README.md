@@ -1,2 +1,0 @@
-# windicss
-Learning Windi Css
